@@ -1,4 +1,4 @@
-# Main website of Kevin Kavete
+# Main website of Kavetech Africa
 
 <h2>Hosted on github repository</h2>
 
