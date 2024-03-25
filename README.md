@@ -1,4 +1,4 @@
-# Main website of Kavetech Africa
+# Main website of kavete.me
 
 <h2>Hosted on github repository</h2>
 
